@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "COBoards")(type "KiCad")(uri "/Users/ericlau/git/KiCad/COBoards.pretty")(options "")(descr ""))
+)

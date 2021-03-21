@@ -27,7 +27,7 @@ $ nrfjprog -f nrf52 --program firmware/bootloader/COBO_nrf52840_bootloader-0.3.2
 	- (ToDo) SF65_Bottom: Bottom cover PCB. 
 	- (ToDo) SF65_Plate: Switch plate PCB. 
 	- NOTE: KiCad files are created with nightly KiCad 5.99 builds, they are not compatible with current stable release of KiCad 5.
-- Bill of materials [Link](./PCB/bom)
+- Bill of materials [Link](./PCB/bom/ibom.html)
 
 ## ToDo 
 - Test prototypes.
